@@ -1,1 +1,1 @@
-# Cuda-shader-optimise
+shader-optimise
